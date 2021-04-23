@@ -1,0 +1,30 @@
+color
+#3498db 파란배경
+#aed6f1 파란배경글
+
+#999999 글 회색
+
+font-size:12px
+
+<header>
+font-size: 1.25em;
+font-size: 4em;
+font-size: 1.75em;
+font-size: 1.25em; font-weight: 700;
+
+<section1><section2>
+font-size: 1.75em; font-weight: 700;
+글은 기본
+font-size: 1.25em; font-weight: 700;
+
+<section3>
+font-size: 3em; font-weight: 700;
+font-size: 1.25em;
+
+<section3>-item
+글은 기본
+font-size: 1.25em; font-weight: 700;
+
+<footer>
+글은 기본
+
